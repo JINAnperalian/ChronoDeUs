@@ -1,0 +1,17 @@
+D:\Workspace\CSSvr\CsServer\CsServer\bin\Debug\net6.0\CsServer.exe
+D:\Workspace\CSSvr\CsServer\CsServer\bin\Debug\net6.0\CsServer.deps.json
+D:\Workspace\CSSvr\CsServer\CsServer\bin\Debug\net6.0\CsServer.runtimeconfig.json
+D:\Workspace\CSSvr\CsServer\CsServer\bin\Debug\net6.0\CsServer.dll
+D:\Workspace\CSSvr\CsServer\CsServer\bin\Debug\net6.0\ref\CsServer.dll
+D:\Workspace\CSSvr\CsServer\CsServer\bin\Debug\net6.0\CsServer.pdb
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\CsServer.csproj.AssemblyReference.cache
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\CsServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\CsServer.AssemblyInfoInputs.cache
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\CsServer.AssemblyInfo.cs
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\CsServer.csproj.CoreCompileInputs.cache
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\CsServer.dll
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\ref\CsServer.dll
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\CsServer.pdb
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\CsServer.genruntimeconfig.cache
+D:\Workspace\CSSvr\CsServer\CsServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Workspace\CSSvr\CsServer\CsServer\obj\Debug\net6.0\CsServer.csproj.CopyComplete
